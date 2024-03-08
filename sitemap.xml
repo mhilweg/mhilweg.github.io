@@ -23,16 +23,37 @@
     <loc>//localhost:4321/publication-type/3/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:4321/publication-type/4/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/author/ali-ozkes/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:4321/author/argun-aman/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/authors/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:4321/author/ben-greiner/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/author/christoph-huber/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/author/elena-katok/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:4321/author/gian-caspari/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:4321/author/management-science-reproducibility-collaboration/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:4321/author/michael-hilweg-waldeck/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/author/milos-fisar/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/publication/nonstandardpreferences/</loc>
@@ -42,6 +63,9 @@
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/publication/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/publication/management_science/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/tag/source-themes/</loc>
