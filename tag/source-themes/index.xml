@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Source Themes | Michael Hilweg-Waldeck</title>
-    <link>/tag/source-themes/</link>
-      <atom:link href="/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/tag/source-themes/</link>
+      <atom:link href="//localhost:4321/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:4321/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Source Themes</title>
-      <link>/tag/source-themes/</link>
+      <link>//localhost:4321/tag/source-themes/</link>
     </image>
     
     <item>
       <title>Competing against Stereotypes – Gender Beliefs and The Competition Gap</title>
-      <link>/publication/stereotypes/</link>
+      <link>//localhost:4321/publication/stereotypes/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/stereotypes/</guid>
+      <guid>//localhost:4321/publication/stereotypes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Non-Standard Choice and Matching</title>
-      <link>/publication/nonstandardpreferences/</link>
+      <link>//localhost:4321/publication/nonstandardpreferences/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/nonstandardpreferences/</guid>
+      <guid>//localhost:4321/publication/nonstandardpreferences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why don&#39;t you deduct to donate more? Behavioral factors undermining tax incentives for deduction</title>
-      <link>/publication/charity/</link>
+      <link>//localhost:4321/publication/charity/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/charity/</guid>
+      <guid>//localhost:4321/publication/charity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reproducibility in Management Science</title>
-      <link>/publication/management_science/</link>
+      <link>//localhost:4321/publication/management_science/</link>
       <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/management_science/</guid>
+      <guid>//localhost:4321/publication/management_science/</guid>
       <description></description>
     </item>
     

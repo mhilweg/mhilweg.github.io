@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Hilweg-Waldeck</title>
-    <link>/author/michael-hilweg-waldeck/</link>
-      <atom:link href="/author/michael-hilweg-waldeck/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/author/michael-hilweg-waldeck/</link>
+      <atom:link href="//localhost:4321/author/michael-hilweg-waldeck/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Hilweg-Waldeck</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:4321/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Michael Hilweg-Waldeck</title>
-      <link>/author/michael-hilweg-waldeck/</link>
+      <link>//localhost:4321/author/michael-hilweg-waldeck/</link>
     </image>
     
     <item>
       <title>Competing against Stereotypes – Gender Beliefs and The Competition Gap</title>
-      <link>/publication/stereotypes/</link>
+      <link>//localhost:4321/publication/stereotypes/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/stereotypes/</guid>
+      <guid>//localhost:4321/publication/stereotypes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michael Hilweg-Waldeck</title>
-      <link>/author/michael-hilweg-waldeck/</link>
+      <link>//localhost:4321/author/michael-hilweg-waldeck/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/author/michael-hilweg-waldeck/</guid>
+      <guid>//localhost:4321/author/michael-hilweg-waldeck/</guid>
       <description>&lt;p&gt;I am a doctoral candidate in Economics at University of Mannheim. My main research interests are in Behavioral and Experimental Economics. My research is primarly focused on charitable giving and the role of (biased) beliefs in people&amp;rsquo;s educational and career choices.&lt;/p&gt;
 &lt;p&gt;I will visit Ben Greiner at WU Wien from December 2024 to February 2025.&lt;/p&gt;
 </description>
@@ -32,17 +32,17 @@
     
     <item>
       <title>Non-Standard Choice and Matching</title>
-      <link>/publication/nonstandardpreferences/</link>
+      <link>//localhost:4321/publication/nonstandardpreferences/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/nonstandardpreferences/</guid>
+      <guid>//localhost:4321/publication/nonstandardpreferences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why don&#39;t you deduct to donate more? Behavioral factors undermining tax incentives for deduction</title>
-      <link>/publication/charity/</link>
+      <link>//localhost:4321/publication/charity/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/charity/</guid>
+      <guid>//localhost:4321/publication/charity/</guid>
       <description></description>
     </item>
     

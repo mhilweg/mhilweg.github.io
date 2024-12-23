@@ -2,137 +2,143 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>//localhost:4321/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/courses/example/</loc>
+    <loc>//localhost:4321/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example/example2/</loc>
+    <loc>//localhost:4321/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/talk/example/</loc>
+    <loc>//localhost:4321/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:4321/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/</loc>
+    <loc>//localhost:4321/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/3/</loc>
+    <loc>//localhost:4321/publication-type/3/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/argun-aman/</loc>
+    <loc>//localhost:4321/author/argun-aman/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>//localhost:4321/authors/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/stereotypes/</loc>
+    <loc>//localhost:4321/publication/stereotypes/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/gian-caspari/</loc>
+    <loc>//localhost:4321/author/gian-caspari/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/manshu-khanna/</loc>
+    <loc>//localhost:4321/author/manshu-khanna/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/michael-hilweg-waldeck/</loc>
+    <loc>//localhost:4321/author/michael-hilweg-waldeck/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/nonstandardpreferences/</loc>
+    <loc>//localhost:4321/publication/nonstandardpreferences/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
+    <loc>//localhost:4321/publication_types/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/</loc>
+    <loc>//localhost:4321/publication/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/source-themes/</loc>
+    <loc>//localhost:4321/tag/source-themes/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:4321/tags/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/vincent-meisner/</loc>
+    <loc>//localhost:4321/author/vincent-meisner/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/charity/</loc>
+    <loc>//localhost:4321/publication/charity/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/4/</loc>
+    <loc>//localhost:4321/publication-type/4/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/ali-ozkes/</loc>
+    <loc>//localhost:4321/author/ali-ozkes/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/ben-greiner/</loc>
+    <loc>//localhost:4321/author/ben-greiner/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/christoph-huber/</loc>
+    <loc>//localhost:4321/author/christoph-huber/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/elena-katok/</loc>
+    <loc>//localhost:4321/author/elena-katok/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/management-science-reproducibility-collaboration/</loc>
+    <loc>//localhost:4321/author/management-science-reproducibility-collaboration/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/milos-fisar/</loc>
+    <loc>//localhost:4321/author/milos-fisar/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/management_science/</loc>
+    <loc>//localhost:4321/publication/management_science/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/</loc>
+    <loc>//localhost:4321/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/slides/</loc>
+    <loc>//localhost:4321/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/slides/example/</loc>
+    <loc>//localhost:4321/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/deep-learning/</loc>
+    <loc>//localhost:4321/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/demo/</loc>
+    <loc>//localhost:4321/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/external-project/</loc>
+    <loc>//localhost:4321/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/internal-project/</loc>
+    <loc>//localhost:4321/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
+    <loc>//localhost:4321/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:4321/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>//localhost:4321/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tag/plot/</loc>
+    <loc>//localhost:4321/tag/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>//localhost:4321/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/category/r/</loc>
+    <loc>//localhost:4321/category/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tag/r-markdown/</loc>
+    <loc>//localhost:4321/tag/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tag/regression/</loc>
+    <loc>//localhost:4321/tag/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/work_in_progress/</loc>
+    <loc>//localhost:4321/work_in_progress/</loc>
   </url><url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>//localhost:4321/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
 </urlset>
