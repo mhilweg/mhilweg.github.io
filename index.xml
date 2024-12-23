@@ -35,9 +35,15 @@
     
     <item>
       <title>Example Page 2</title>
+<<<<<<< HEAD
       <link>/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/courses/example/example2/</guid>
+=======
+      <link>//localhost:4321/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>//localhost:4321/courses/example/example2/</guid>
+>>>>>>> 22c2486d6471b8032b18337c2af5aaa018665071
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +62,15 @@
     
     <item>
       <title>Example Talk</title>
+<<<<<<< HEAD
       <link>/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       <guid>/talk/example/</guid>
+=======
+      <link>//localhost:4321/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>//localhost:4321/talk/example/</guid>
+>>>>>>> 22c2486d6471b8032b18337c2af5aaa018665071
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -77,6 +89,7 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Competing against Stereotypes – Gender Beliefs and The Competition Gap</title>
       <link>/publication/stereotypes/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
@@ -97,22 +110,56 @@
       <link>/publication/charity/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
       <guid>/publication/charity/</guid>
+=======
+      <title>Non-Standard Choice and Matching</title>
+      <link>//localhost:4321/publication/nonstandardpreferences/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/publication/nonstandardpreferences/</guid>
+>>>>>>> 22c2486d6471b8032b18337c2af5aaa018665071
       <description></description>
     </item>
     
     <item>
       <title>Reproducibility in Management Science</title>
+<<<<<<< HEAD
       <link>/publication/management_science/</link>
       <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
       <guid>/publication/management_science/</guid>
+=======
+      <link>//localhost:4321/publication/management_science/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/publication/management_science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Stereotypes in the Gender Competition Gap</title>
+      <link>//localhost:4321/publication/stereotypes/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/publication/stereotypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why don&#39;t you deduct to donate more? Behavioral factors undermining tax incentives for deduction</title>
+      <link>//localhost:4321/publication/charity/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/publication/charity/</guid>
+>>>>>>> 22c2486d6471b8032b18337c2af5aaa018665071
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
+<<<<<<< HEAD
       <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/slides/example/</guid>
+=======
+      <link>//localhost:4321/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/slides/example/</guid>
+>>>>>>> 22c2486d6471b8032b18337c2af5aaa018665071
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -243,18 +290,49 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>External Project</title>
       <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/external-project/</guid>
+=======
+      <title>Privacy Policy</title>
+      <link>//localhost:4321/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>//localhost:4321/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>//localhost:4321/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>//localhost:4321/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>//localhost:4321/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/external-project/</guid>
+>>>>>>> 22c2486d6471b8032b18337c2af5aaa018665071
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
+<<<<<<< HEAD
       <link>/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/internal-project/</guid>
+=======
+      <link>//localhost:4321/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/internal-project/</guid>
+>>>>>>> 22c2486d6471b8032b18337c2af5aaa018665071
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -265,9 +343,15 @@ $$&lt;/p&gt;
     
     <item>
       <title>Hello R Markdown</title>
+<<<<<<< HEAD
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <guid>/post/2015-07-23-r-rmarkdown/</guid>
+=======
+      <link>//localhost:4321/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>//localhost:4321/post/2015-07-23-r-rmarkdown/</guid>
+>>>>>>> 22c2486d6471b8032b18337c2af5aaa018665071
       <description>
 
 
@@ -304,7 +388,11 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+<<<<<<< HEAD
 &lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+=======
+&lt;img src=&#34;//localhost:4321/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+>>>>>>> 22c2486d6471b8032b18337c2af5aaa018665071
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
