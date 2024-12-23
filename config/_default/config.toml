@@ -1,4 +1,4 @@
 baseURL = "https://mhilweg.github.io/"
 languageCode = "en-us"
 title = "Michael Hilweg-Waldeck's webpage"
-theme = "your-theme-name"
+theme = "minimal"
